@@ -20,11 +20,11 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 
 
 ### Programmikoodi lõigud
-
+Puudub kuna kasutasin koodita Flight Controllerit.
 ### Pildid
 
 ### Raskused
-Esimene raskus esines leida õiged mootorid ja nendele sobiv ESC kuid nende otsimisega sain hakkama
-Teine probleem oli õiges mahus aku leida et droon saaks piisavalt toidet
-Kolmas probleem oli Flight Controlleri leidmine millele olen leidnud lahenduse
+Esimene raskus esines leida õiged mootorid ja nendele sobiv ESC kuid nende otsimisega sain hakkama.
+Teine probleem oli õiges mahus aku leida et droon saaks piisavalt toidet.
+Kolmas probleem oli Flight Controlleri leidmine millele olen leidnud lahenduse.
 ### Kokkuvõte
