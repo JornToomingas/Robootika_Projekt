@@ -14,7 +14,7 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 * Turnigy TGY-iA6 2.4Ghz Receiver <br>
 * 30A ESC (4tk) <br>
 * Matek Systems LED and Power hub 5 in 1 <br>
-* Propellerid (4tk) <br>
+* Nazgul F5 Tri-Blade propeller (4tk) <br>
 * <br>
 * <br>
 
