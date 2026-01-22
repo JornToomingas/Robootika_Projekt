@@ -15,8 +15,8 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 *30A ESC (4tk) <br>
 *Matek Systems LED and Power hub 5 in 1 <br>
 *Propellerid (4tk) <br>
-*
-*
+* <br>
+* <br>
 
 
 ### Programmikoodi lõigud
