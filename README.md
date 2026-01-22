@@ -9,12 +9,12 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 
 
 ### Komponendid
-*5" raam
-*KingKong 2204-2300KV mootorid (4tk)
-*Turnigy TGY-iA6 2.4Ghz Receiver
-*30A ESC (4tk)
-*Matek Systems LED and Power hub 5 in 1
-*Propellerid (4tk)
+*5" raam <br>
+*KingKong 2204-2300KV mootorid (4tk) <br>
+*Turnigy TGY-iA6 2.4Ghz Receiver <br>
+*30A ESC (4tk) <br>
+*Matek Systems LED and Power hub 5 in 1 <br>
+*Propellerid (4tk) <br>
 *
 *
 
