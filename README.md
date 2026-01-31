@@ -17,10 +17,11 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 * Nazgul F5 Tri-Blade propeller (4tk) <br>
 * <br>
 * <br>
+* Erinevad jumper juhtmed<br>
 
 
 ### Programmikoodi lõigud
-Puudub kuna kasutasin koodita Flight Controllerit.
+Puudub kuna kasutasin Flight Controllerit mis oli nuppudega programmeeritav ilma koodita.
 ### Pildid
 
 ### Raskused
