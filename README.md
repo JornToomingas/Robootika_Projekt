@@ -8,6 +8,7 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 ### Skeem
 <img width="1280" height="563" alt="image" src="https://github.com/user-attachments/assets/47152bc0-b243-4a78-ab50-6d36c09c2667" />
 (Pilt võetud: https://app.cirkitdesigner.com/project/39c9c009-ec19-4c7a-a7a0-7b6a45f389eb)
+
 ### Komponendid
 * 5" raam <br>
 * KingKong 2204-2300KV mootorid (4tk) <br>
