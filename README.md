@@ -3,7 +3,8 @@
 Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 
 ### Roboti kirjeldus
-#### Ehitasin 5" drooni mis on raadio puldiga juhitav, valisin väiksema raami kuna tahtsin ehitada väikest drooni
+#### Ehitasin 5" drooni mis on raadio puldiga juhitav, valisin väiksema raami kuna tahtsin ehitada väikest drooni.
+Paigaldasin sellele 4x 2300KV brushless mootorit ja 4x 30A ESC-i. Tervet drooni juhtis KK2.1.5 Flight Controller.
 
 ### Skeem
 <img width="1280" height="563" alt="image" src="https://github.com/user-attachments/assets/47152bc0-b243-4a78-ab50-6d36c09c2667" />
@@ -17,7 +18,7 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 * Matek Systems LED and Power hub 5 in 1 <br>
 * Nazgul F5 Tri-Blade propeller (4tk) <br>
 * Erinevad jumper juhtmed <br>
-
+* KK2.1.5 <br>
 
 ### Programmikoodi lõigud
 Puudub kuna kasutasin Flight Controllerit mis oli nuppudega programmeeritav ilma koodita.
