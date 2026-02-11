@@ -29,5 +29,5 @@ Teine probleem oli õiges mahus aku leida et droon saaks piisavalt toidet. <br>
 Kolmas probleem oli Flight Controlleri leidmine millele olen leidnud lahenduse. <br>
 
 ### Video ja pilt
-![1000012246](https://github.com/user-attachments/assets/b7753ca1-8114-4be7-99e5-8f5382c76297)
+<img width="1280" height="800" src=![1000012246](https://github.com/user-attachments/assets/b7753ca1-8114-4be7-99e5-8f5382c76297) />
 https://drive.google.com/file/d/1coe6zgFBgVGpZLljksm7KKMkqNlS12Kn/view?usp=sharing
