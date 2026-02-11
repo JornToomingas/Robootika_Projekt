@@ -6,6 +6,7 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 #### Ehitasin 5" drooni mis on raadio puldiga juhitav
 
 ### Skeem
+<img width="1280" height="563" alt="image" src="https://github.com/user-attachments/assets/47152bc0-b243-4a78-ab50-6d36c09c2667" />
 
 
 ### Komponendid
@@ -21,14 +22,16 @@ Projekti idee on ehitada droon mis on kasutaja poolt juhitav puldiga.
 ### Programmikoodi lõigud
 Puudub kuna kasutasin Flight Controllerit mis oli nuppudega programmeeritav ilma koodita.
 
-###Pildid
+### Pildid
 ![1000012246](https://github.com/user-attachments/assets/b7753ca1-8114-4be7-99e5-8f5382c76297)
 
 ### Raskused
 Esimene raskus esines leida õiged mootorid ja nendele sobiv ESC kuid nende otsimisega sain hakkama. <br>
 Teine probleem oli õiges mahus aku leida et droon saaks piisavalt toidet. <br>
 Kolmas probleem oli Flight Controlleri leidmine millele olen leidnud lahenduse. <br>
+
 ### Kokkuvõte
+
 
 ### Video
 https://drive.google.com/file/d/1coe6zgFBgVGpZLljksm7KKMkqNlS12Kn/view?usp=sharing
